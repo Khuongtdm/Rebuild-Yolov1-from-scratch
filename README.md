@@ -6,7 +6,7 @@ This implementation was built for educational purposes. The architecture and muc
 
 Textbook: A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS by Juan Terven, Diana-Margarita Córdova-Esparza, and Julio-Alejandro Romero-González.
 
-Video Tutorial: [Insert YouTube Link Here]
+Video Tutorial: https://www.youtube.com/watch?v=n9_XyCGr-MI
 
 🚀 How to Run
 The project is designed to run seamlessly in Google Colab. Follow these steps to get started:
